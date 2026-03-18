@@ -1,0 +1,7 @@
+{
+  "name": "Anupkumar Koturwar - AI Portfolio",
+  "description": "A high-end, AI-powered professional portfolio for Anupkumar Koturwar, featuring a virtual assistant and interactive project insights powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
