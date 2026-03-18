@@ -883,7 +883,7 @@ export default function App() {
                 <div className="flex items-center gap-6 mb-8">
                   <div className="w-24 h-24 rounded-2xl overflow-hidden border-2 border-blue-500/30">
                     <img 
-                      src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80" 
+                      src="photo - Copy.png" 
                       alt="Anupkumar Koturwar" 
                       className="w-full h-full object-cover"
                     />
