@@ -398,7 +398,7 @@ export default function App() {
             
             <div className="w-40 h-40 md:w-56 md:h-56 rounded-full border-4 border-teal-400/40 p-1.5 bg-slate-900 relative z-10 overflow-hidden shadow-[0_0_60px_rgba(20,184,166,0.3)]">
               <img 
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format&fit=crop&q=80" 
+                src="photo - Copy.png" 
                 alt="Anupkumar Koturwar" 
                 className="w-full h-full object-cover rounded-full grayscale-[10%] transition-all duration-500 scale-105"
               />
@@ -407,7 +407,7 @@ export default function App() {
 
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-slate-900/80 border border-white/10 text-xs font-bold text-teal-400 mb-8 uppercase tracking-widest z-10">
             <span className="w-2 h-2 bg-teal-400 rounded-full animate-ping" />
-            Software Engineer & Data Enthusiast
+           Full stack Software Engineer & Data Enthusiast
           </div>
 
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-black text-white tracking-tighter mb-8 leading-[0.85] z-10">
@@ -439,8 +439,8 @@ export default function App() {
                 options={{
                   strings: [
                     "Bridging the gap between complex data and user-centric interfaces.",
-                    "Full-stack engineer graduating 2025.",
-                    "Published researcher in NLP & CV.",
+                    "Full-stack engineer graduated in 2025.",
+                    "“Presented a paper on dual-mode plagiarism detection at IEEE OTCON 2024.”",
                     "Building the future of intelligent systems."
                   ],
                   autoStart: true,
@@ -890,7 +890,7 @@ export default function App() {
                   </div>
                   <div>
                     <h3 className="text-2xl font-black text-white uppercase tracking-tight">Anupkumar Koturwar</h3>
-                    <p className="text-blue-400 font-bold text-sm uppercase tracking-widest">Software Engineer | NLP Researcher</p>
+                    <p className="text-blue-400 font-bold text-sm uppercase tracking-widest">Full Stack Python Developer | Django & React.js | SQL, MongoDB, AWS | Building Scalable Web Solutions</p>
                     <div className="flex items-center gap-2 mt-2">
                       <div className="flex -space-x-2">
                         {[1,2,3].map(i => (
@@ -899,7 +899,7 @@ export default function App() {
                           </div>
                         ))}
                       </div>
-                      <span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter">500+ Connections</span>
+                      <span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter">170+ Connections</span>
                     </div>
                   </div>
                 </div>
@@ -1005,7 +1005,7 @@ export default function App() {
                   </div>
                 </a>
 
-                <a href="https://wa.me/918999881962" target="_blank" rel="noreferrer" className="glass-card p-6 rounded-2xl flex items-center gap-5 hover:border-green-500/50 hover:bg-green-500/5 transition-all duration-300 group">
+                <a href="https://wa.me/91+ 8999881962" target="_blank" rel="noreferrer" className="glass-card p-6 rounded-2xl flex items-center gap-5 hover:border-green-500/50 hover:bg-green-500/5 transition-all duration-300 group">
                   <div className="w-14 h-14 bg-green-500/10 rounded-2xl flex items-center justify-center text-green-400 group-hover:scale-110 transition-transform">
                     <MessageSquare size={24} />
                   </div>
@@ -1177,7 +1177,7 @@ export default function App() {
       <footer className="py-12 px-6 bg-slate-950/50 border-t border-white/5">
         <div className="max-w-7xl mx-auto text-center space-y-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-6 text-slate-600 text-sm font-medium">
-            <p>© 2025 Anupkumar Koturwar. All Rights Reserved.</p>
+            <p>© 2026 Anupkumar Koturwar. All Rights Reserved.</p><br></br>
             <div className="flex gap-8">
               <a href="#" className="hover:text-teal-400 transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-teal-400 transition-colors">Terms of Service</a>
