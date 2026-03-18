@@ -121,6 +121,7 @@ const CodeBackground = () => {
               x: [0, drift, -drift, drift, 0],
               scale: [0.9, 1.2, 0.9],
             }}
+            
             transition={{ 
               duration: duration, 
               repeat: Infinity,
